@@ -32,7 +32,7 @@
   <code><img height="40" src="./assets/html.png" alt="HTML"/></code>
   <code><img height="40" src="./assets/css.png" alt="CSS"/></code>
   <code><img height="40" src="./assets/js.png" alt="Javascirpt"/></code>
-  <code><img height="40" src="./assets/c#.png" alt="Csharp"/></code>
+  <code><img height="40" src="./assets/c.png" alt="C#"/></code>
   <code><img height="40" src="./assets/python.png" alt="Python"/></code>
   <br>
   ✦

@@ -47,19 +47,20 @@
 </div>
 
 ---
-<!-- 📊 Estatísticas e Linguagens lado a lado -->
+<!-- 📊 Cards com estilo lado a lado e mesmo tamanho -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renneb777&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Renne%20Rox'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <!-- Estatísticas do GitHub -->
-  <a href="https://github.com/renneb777">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renneb777&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Renne%20Rox'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
-  </a>
-
-  <!-- Contador de Linguagens -->
-  <a href="https://github.com/renneb777">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
-  </a>
-</p>
 
 
 

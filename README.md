@@ -1,39 +1,93 @@
-### Hi there Rennê Bispo👋
-About me
+<img src="./assets/welcome-ms-daniel2.gif" align="middle" alt="Banner" width="100%"/>
 
-I am a technology enthusiast and software developer with a strong passion for programming. I am constantly seeking to expand my knowledge and take on intriguing challenges. My primary interests lie in web development, both front-end and back-end, as well as artificial intelligence. I have been engaged in recent projects where I have been able to apply and further enhance my skills in these areas.
+---
+<img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="33%"> 
 
-   Project 1: Calculates the amount of calories a person should consume per day based on certain parameters.
-   Project 2: The open-world 2D game is a game that allows players to explore a vast and interactive environment in 2 dimensions.
-   Project 3: Tic-tac-toe is a simple board game where two players take turns to mark their symbols on a 3x3 grid.
+## 📝About Me
+- :books: Hello! My name is Rennê Bispo and I have a degree in Information Systems from the Federal University of Sergipe. I am developer focused on stacks such. <br>
+- 🔭 Currently learning <b>how to be BETTER</b> <br>
+- 🚀 Contributing to the <a href="https://github.com/marcosdosea/RestauranteAki">RestauranteAki</a> project (.Net, ASP.NET, MySQL, Entity Framework, Identity...)  <br>
+- 🛠️ See my actual project with Boostrap, html e css:  <a href="https://renneb777.github.io/-renne.github.io/">ItaCerâmica</a><br>
+- 🛠️ And Customer registration with Python,  in <a href="https://github.com/renneb777/Cinema" target="_blank">Cinema</a><br>
+- See Also: <a href="https://github.com/renneb777/Dieta-2022" target="_blank">Sistema de Dieta</a><br>
+<br><br>
+---
+<div align="center">
+  <h1> 🚀 Skills 🚀 </h1>
+  <div align="left">
+   Legend: <br>
+   ✯ - Main ✦ - Knowledge ☻ - Learning
+  </div>
+  <h2> Frameworks </h2>
+  ✯
+  <code><img height="40" src="./assets/react.png" alt="React"/></code>
+  <code><img height="40" src="./assets/bootstrap.png" alt="Boostrap"/></code>
+  <code><img height="40" src="./assets/.net.png" alt=".NET"/></code>
+  <br>
+  ✦
+  <code><img height="40" src="./assets/tailwind.png" alt="Tailwind"/></code>
+  <code><img height="40" src="./assets/flutter.png" alt="Flutter"/></code>
+  <code><img height="40" src="./assets/spring.png" alt="Spring"/></code>
+  <code><img height="40" src="./assets/cakephp.png" alt="CakePHP"/></code>
+  <code><img height="40" src="./assets/django.png" alt="Django"/></code>
+  <code><img height="40" src="./assets/fastpi.png" alt="Fastapi"/></code>
+  <code><img height="40" src="./assets/yii-framework.png" alt="Yii"/></code>
+  <br>
 
-Hobbies
+  <h2> Stack/Technologies </h2>
+  ✯
+  <code><img height="40" src="./assets/html.png" alt="HTML"/></code>
+  <code><img height="40" src="./assets/css.png" alt="CSS"/></code>
+  <code><img height="40" src="./assets/js.png" alt="Javascirpt"/></code>
+  <code><img height="40" src="./assets/c%23.png" alt="Csharp"/></code>
+  <code><img height="40" src="./assets/python.png" alt="Python"/></code>
+  <br>
+  ✦
+  <code><img height="40" src="./assets/java.png" alt="Java"/></code>
+  <code><img height="40" src="./assets/c++.png" alt="C/C++"/></code>
 
-    🎸 I dedicate time to practicing and improving my musical skills by playing the guitar and the acoustic guitar, expressing creativity and emotions through music. Additionally, my passion for technology       and science fiction leads me to explore books that delve into these subjects, expanding my knowledge and perspective.
-    📖 To relax and have fun, I immerse myself in virtual worlds through video games, enjoying engaging narratives, strategic challenges, and social connections with other players.
-    🎮 Appreciation for art, advanced graphics, and soundtracks enhance these interactive experiences.
-Contact:
+  <h2> Databases SQL/NoSQL </h2>
+  ✯
+  <code><img height="40" src="./assets/mysql.png" alt="MySQL"/></code>
+  <br>
+  ✦
+</div>
 
-If you'd like to get in touch with me, feel free to send me a message through my social media channels or via email.
+---
+<div align="center">
+ <!-- contribuições/commits/etc  --> 
+ <a href="https://github.com/renneb777" >
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
+ </a>
+ 
+  <!-- contador de linguagem  --> 
+<a href="https://github.com/renneb777">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
+</a> 
+<!--&border_color=1E90FF-->
+</div>
 
-    📧 E-mail: rennerox46@gmail.com
-    🐦 Twitter: @renneb777
-    📷 Instagram: @renneb777
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renneb777/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
+ ---
 
-![Renne GitHub stats](https://github-readme-stats.vercel.app/api?username=MetalRe&show_icons=true&theme=radical)
+## Contact
 
-## Tecnologias que eu uso no meu dia
+<div id="contacts">
+ <a href="mailto:ms_rennerox46@gmail.com" target="_blank" alt="whatsapp to contact">
+  <img  src="./assets/email.png" alt="email to contact" width="5%">
+ </a>
+ <!--<a href="https://wa.me/qr/GSP43QHXUGT7C1" target="_blank" alt="whatsapp to contact">
+  <img src="./assets/whatsapp.png"  width="5%">
+ </a> -->
+ 
+ <a href="https://www.instagram.com/wrenb777/" target="_blank" alt="instagram to contact">
+  <img  src="./assets/instagram.png"  width="5%">
+ </a>
+</div>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  
-</div><br/>
+---
+
+<div align="center">
+ <img src="./assets/luffy.gif" width="20%" loop autoplay>
+ 
+<img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" />
+</div>

@@ -55,6 +55,7 @@
  
   <!-- contador de linguagem  --> 
 <a href="https://github.com/renneb777">
+<<<<<<< .mine
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
 
 ## 🚀 Tecnologias & Ferramentas
@@ -76,9 +77,33 @@
 ### 💾 Databases SQL / NoSQL
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
+=======
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
 </a> 
 <!--&border_color=1E90FF-->
 </div>
+
 
  ---
 

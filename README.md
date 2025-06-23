@@ -25,13 +25,6 @@
   <code><img height="40" src="./assets/.net.png" alt=".NET"/></code>
   <br>
   ✦
-  <code><img height="40" src="./assets/tailwind.png" alt="Tailwind"/></code>
-  <code><img height="40" src="./assets/flutter.png" alt="Flutter"/></code>
-  <code><img height="40" src="./assets/spring.png" alt="Spring"/></code>
-  <code><img height="40" src="./assets/cakephp.png" alt="CakePHP"/></code>
-  <code><img height="40" src="./assets/django.png" alt="Django"/></code>
-  <code><img height="40" src="./assets/fastpi.png" alt="Fastapi"/></code>
-  <code><img height="40" src="./assets/yii-framework.png" alt="Yii"/></code>
   <br>
 
   <h2> Stack/Technologies </h2>

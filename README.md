@@ -50,56 +50,14 @@
 <div align="center">
  <!-- contribuições/commits/etc  --> 
  <a href="https://github.com/renneb777" >
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ms-daniel&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Carlos%20Daniel'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
  </a>
- 
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renneb777&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Renne%20Rox'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
   <!-- contador de linguagem  --> 
 <a href="https://github.com/renneb777">
 <<<<<<< .mine
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
 
-## 🚀 Tecnologias & Ferramentas
 
-### 🧩 Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
-
-### 🛠️ Stack / Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
-
-### 💾 Databases SQL / NoSQL
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-=======
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> .theirs
 </a> 
 <!--&border_color=1E90FF-->
 </div>

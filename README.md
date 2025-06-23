@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
- <img src="./assets/marco.gif" width="20%" loop autoplay>
+ <img src="./assets/marco2025.gif" width="20%" loop autoplay>
  
 <img src="https://komarev.com/ghpvc/?username=ms-daniel&&style=flat-square" />
 </div>

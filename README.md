@@ -24,7 +24,7 @@
   <code><img height="40" src="./assets/bootstrap.png" alt="Boostrap"/></code>
   <code><img height="40" src="./assets/.net.png" alt=".NET"/></code>
   <br>
-  ✦
+   <!-- Adicionar mais habilidades  --> 
   <br>
 
   <h2> Stack/Technologies </h2>
@@ -43,7 +43,7 @@
   ✯
   <code><img height="40" src="./assets/mysql.png" alt="MySQL"/></code>
   <br>
-  ✦
+  <!-- ✦ Adicionar mais habilidades  --> 
 </div>
 
 ---

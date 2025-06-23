@@ -47,21 +47,29 @@
 </div>
 
 ---
-<!-- 📊 Cards com estilo lado a lado e mesmo tamanho -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renneb777&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Renne%20Rox'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
-      </td>
-    </tr>
-  </table>
+  <h3>Frameworks</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".net logo"  />
 </div>
 
+<div align="center">
+  <h3>Stack/Technologies</h3>
+    <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,java,cpp" />
+    </a>
+  </p>
+  <p>
+    HTML: XX% | CSS: XX% | JavaScript: XX% | C#: XX% | Python: XX% | Java: XX% | C++: XX%
+  </p>
+</div>
 
+<div align="center">
+  <h3>Databases SQL/NoSQL</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+</div>
 
 
  ---

@@ -56,6 +56,7 @@
   <!-- contador de linguagem  --> 
 <a href="https://github.com/renneb777">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-daniel&langs_count=10&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF"/>
+    ![Renne GitHub stats](https://github-readme-stats.vercel.app/api?username=MetalRe&show_icons=true&theme=radical)
 </a> 
 <!--&border_color=1E90FF-->
 </div>

@@ -1,6 +1,7 @@
 <img src="./assets/welcome-renne.gif" align="middle" alt="Banner" width="100%"/>
 
 ---
+
 <img src="./assets/coding.gif" align="right" alt="coding image" height="30%" width="33%"> 
 
 ## 📝About Me
@@ -11,7 +12,9 @@
 - 🛠️ And Customer registration with Python,  in <a href="https://github.com/renneb777/Cinema" target="_blank">Cinema</a><br>
 - See Also: <a href="https://github.com/renneb777/Dieta-2022" target="_blank">Sistema de Dieta</a><br>
 <br><br>
+
 ---
+
 <div align="center">
   <h1> 🚀 Skills 🚀 </h1>
   <div align="left">
@@ -26,7 +29,6 @@
   <br>
    <!-- Adicionar mais habilidades  --> 
   <br>
-
   <h2> Stack/Technologies </h2>
   ✯
   <code><img height="40" src="./assets/html.png" alt="HTML"/></code>
@@ -38,7 +40,6 @@
   ✦
   <code><img height="40" src="./assets/java.png" alt="Java"/></code>
   <code><img height="40" src="./assets/c++.png" alt="C/C++"/></code>
-
   <h2> Databases SQL/NoSQL </h2>
   ✯
   <code><img height="40" src="./assets/mysql.png" alt="MySQL"/></code>
@@ -47,6 +48,7 @@
 </div>
 
 ---
+
 <!-- 📊 Cards com estilo lado a lado e mesmo tamanho -->
 <div align="center">
   <table>
@@ -61,11 +63,9 @@
   </table>
 </div>
 
-
- ---
+---
 
 ## Contact
-
 <div id="contacts">
  <a href="mailto:ms_rennerox46@gmail.com" target="_blank" alt="whatsapp to contact">
   <img  src="./assets/email.png" alt="email to contact" width="5%">
@@ -86,5 +86,4 @@
   <img src="./assets/marco.gif" width="20%" loop autoplay>
   <br>
   <img style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" src="https://komarev.com/ghpvc/?username=renneb777&&style=flat-square" />
-
 </div>

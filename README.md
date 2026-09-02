@@ -41,35 +41,7 @@
   <br>
   <!-- ✦ Adicionar mais habilidades  --> 
 </div>
----
-<!-- 📊 Cards com estilo lado a lado e mesmo tamanho -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renneb777&show_icons=true&theme=transparent&include_all_commits=true&text_color=ffffff&title_color=1E90FF&icon_color=708090&custom_title=Renne%20Rox'%20Github%20Stats&card_width=400&bg_color=000000&border_color=1E90FF"/>
-      </td>
-      <td>
-       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renneb777&langs_count=12&theme=transparent&text_color=ffffff&card_width=400&layout=compact&title_color=1E90FF&bg_color=000000&border_color=1E90FF&include_all_commits=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
----
-## Contact
-<div id="contacts">
- <a href="mailto:ms_rennerox46@gmail.com" target="_blank" alt="whatsapp to contact">
-  <img  src="./assets/email.png" alt="email to contact" width="5%">
- </a>
- <!--<a href="https://wa.me/qr/GSP43QHXUGT7C1" target="_blank" alt="whatsapp to contact">
-  <img src="./assets/whatsapp.png"  width="5%">
- </a> -->
 
- <a href="https://www.instagram.com/wrenb777/" target="_blank" alt="instagram to contact">
-  <img  src="./assets/instagram.png"  width="5%">
- </a>
-</div>
----
 <div align="center">
 
   <img src="./assets/marco.gif" width="20%" loop autoplay>
